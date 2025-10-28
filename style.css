@@ -28,7 +28,6 @@ body {
 .photo  {
     width: 150px;
     height: 150px;
-    border: 2px solid #9f6969;
     border-radius:50 px;
     margin-bottom: 50px;
 }
@@ -65,3 +64,4 @@ ul {
     margin-top: 5px;
 
 }
+

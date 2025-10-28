@@ -30,8 +30,8 @@ body {
     height: 150px;
     border: 2cap solid #9f6969;
     border-radius:50 px;
-    margin-bottom: 70px;
-    padding-right: 20px;
+    margin-bottom: 70vh;
+    padding-right: 20vh;
 }
 
 .info h1 {
@@ -66,4 +66,5 @@ ul {
     margin-top: 5px;
 
 }
+
 

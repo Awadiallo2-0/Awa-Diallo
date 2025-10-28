@@ -31,7 +31,7 @@ body {
     border: 2cap solid #9f6969;
     border-radius:50 px;
     margin-bottom: 70px;
-    margin-right: 20px;
+    padding-right: 20px;
 }
 
 .info h1 {
@@ -66,3 +66,4 @@ ul {
     margin-top: 5px;
 
 }
+

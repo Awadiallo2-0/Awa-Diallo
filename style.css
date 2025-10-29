@@ -35,20 +35,20 @@ body {
 
 .info h1 {
     font-size: 20px;
-    margin-bottom: 5%;
+    margin-bottom: 30%;
 }
 
 .info h2 {
     font-size: 16px;
     color: gray;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .info h3 {
     margin-top: 25px;
     border-bottom: 1px solid #ccc;
     text-align: info;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
 }
 
 
@@ -65,6 +65,7 @@ ul {
     margin-top: 5px;
 
 }
+
 
 
 

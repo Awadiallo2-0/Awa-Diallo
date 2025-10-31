@@ -65,6 +65,15 @@ ul {
     margin-top: 5px;
 
 }
+#nom{
+    color: rgb(126, 126, 190);
+    opacity: 20;
+    transform: translateY(-20px );
+    transition: all 2s ease;
+    text-align: center;
+    font-size: 33px;
+}
+
 
 
 
